@@ -20,7 +20,7 @@ namespace CarParkSimulator
     
       public void PrintTicket()
         {
-            message = "Thank you, enjoy your stay.";
+            displaymessage = "Thank you, enjoy your stay.";
             //Ticket Dispensing
             //add it to the to list of active tickets
      
